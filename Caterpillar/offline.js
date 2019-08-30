@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1567094463,
+	"version": 1567159043,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -14,8 +14,7 @@
 		"images/orange-sheet0.png",
 		"images/gelb-sheet0.png",
 		"images/tiledbackground.png",
-		"images/tiledbackground2.png",
-		"images/spritefont.png",
+		"images/spritefont1.png",
 		"images/raupe-sheet0.png",
 		"images/raupegesicht-sheet0.png",
 		"images/wasser-sheet0.png",
@@ -26,6 +25,8 @@
 		"images/afferechterarm-sheet0.png",
 		"images/affelinkerarm-sheet0.png",
 		"images/auge-sheet0.png",
+		"images/wallbackground-sheet0.png",
+		"images/pfeiltasten-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
