@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1567159043,
+	"version": 1567414459,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -27,6 +27,8 @@
 		"images/auge-sheet0.png",
 		"images/wallbackground-sheet0.png",
 		"images/pfeiltasten-sheet0.png",
+		"images/textcaterpillar2-sheet0.png",
+		"images/textcaterpillar-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
