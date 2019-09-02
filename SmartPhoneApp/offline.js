@@ -1,10 +1,12 @@
 ﻿{
-	"version": 1567419697,
+	"version": 1567426196,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-2.1.1.min.js",
 		"offlineClient.js",
+		"images/camera-sheet0.png",
+		"images/fribourg_logo-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
