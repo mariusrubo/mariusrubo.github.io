@@ -1,0 +1,16 @@
+{
+"companyName": "UnityTechnologies",
+"productName": "BoatAttack",
+"productVersion": "0.9",
+"dataUrl": "URP1.data.unityweb",
+"wasmCodeUrl": "URP1.wasm.code.unityweb",
+"wasmFrameworkUrl": "URP1.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "URP1.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.5f1"
+}
